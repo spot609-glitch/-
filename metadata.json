@@ -1,0 +1,6 @@
+{
+  "name": "AI 제품 제안 카드 - 가구·인테리어 상담용",
+  "description": "가구·인테리어 상담용 AI 제품 제안 카드. 제품 사진 1장과 공간 목적, 제안 문체를 기반으로 고객 맞춤형 5단 구성 제안 카드를 즉시 생성합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
